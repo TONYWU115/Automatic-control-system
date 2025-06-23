@@ -1,0 +1,2 @@
+### Automatic Control Systems Code Repository
+This repository contains MATLAB and Python code for automatic control systems, such as the plotting programs of Root Locus and Nyquist Plot, which can quickly understand the frequency response and stability analysis of control systems.
